@@ -1,6 +1,9 @@
-# Number extractor from google maps  
+# Number extractor from google maps (login system removed) 
 
 This project is a Python application that uses Tkinter for the GUI and Playwright for web automation to scrape phone numbers and names from Google Maps based on a user-defined search keyword. The results are saved into a CSV file for easy access and analysis.
+
+edit - 
+earlier it was using a login and purchase system . now removed . 
 
 ## Features
 
