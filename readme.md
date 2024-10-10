@@ -1,4 +1,4 @@
-# WhatsApp Bot
+# Number extractor from google maps  
 
 This project is a Python application that uses Tkinter for the GUI and Playwright for web automation to scrape phone numbers and names from Google Maps based on a user-defined search keyword. The results are saved into a CSV file for easy access and analysis.
 
